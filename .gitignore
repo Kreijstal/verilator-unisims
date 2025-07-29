@@ -1,1 +1,22 @@
+# Build artifacts
+obj_dir/
+Vtop
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Verilator artifacts
+verilated*
+Vtop*
+
+# Log files
+*.log
+
+# Other
+*.vcd
+*.fst
 *~
